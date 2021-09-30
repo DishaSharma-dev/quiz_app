@@ -13,3 +13,12 @@
   font-weight: bold;
   font-size: 60px;
 }
+
+/*responsive for common mobile device*/
+
+	@media screen and (min-width: 650px) and (max-width: 1024px){
+	
+		#heading {
+         font-size: 30px;
+        }
+	  }
